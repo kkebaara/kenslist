@@ -4,37 +4,43 @@
 			"id": 1,
 			"description": "heater",
 			"image": "./images/heater.jpg",
-			"location": "BROOKLYN"
+			"location": "BROOKLYN",
+			"price": 25.98
 		},
 		{
 			"id": 2,
 			"description": "2019 Toyota Tacoma grill",
 			"image": "./images/toyota-grill.jpg",
-			"location": "Williamsburg"
+			"location": "Williamsburg",
+			"price": 30.0
 		},
 		{
 			"id": 3,
 			"description": "Free Braun 3735 Electric Toothbrush charger",
 			"image": "./images/toothbrush-charger.jpg",
-			"location": "Williamsburg"
+			"location": "Williamsburg",
+			"price": 0
 		},
 		{
 			"id": 4,
 			"description": "FREE Hundreds of DVD/CD Cases - Different Sizes and Colors",
 			"image": "./images/dvd-cases.jpg",
-			"location": "Prospect Heights"
+			"location": "Prospect Heights",
+			"price": 0
 		},
 		{
 			"id": 6,
 			"description": "Beautiful couch",
 			"image": "./images/couch.jpg",
-			"location": "Bay Ridge"
+			"location": "Bay Ridge",
+			"price": 1000
 		},
 		{
 			"id": 7,
 			"description": "Treadmill Parts For Free",
 			"image": "./images/treadmill.jpg",
-			"location": "East Flatbush"
+			"location": "East Flatbush",
+			"price": 0
 		}
 	]
 }
