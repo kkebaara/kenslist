@@ -6,7 +6,7 @@ function ItemsContainer({ search }) {
 	const [sortBy, setSortBy] = useState('id');
 
 	useEffect(() => {
-		fetch('http://localhost:4000/items')
+		fetch('http://localhost:3000/items')
 			.then((resp) => resp.json())
 			.then(setItems);
 	}, []);
