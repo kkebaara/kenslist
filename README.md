@@ -1,5 +1,7 @@
 #RUN
 
+$ `git clone https://github.com/kkebaara/kenslist.git'
+
 $ `npm install`
 
 $ `npm install react-router-dom@5`
